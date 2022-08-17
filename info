@@ -1,0 +1,27 @@
+Migrated all the Jenkins related pipelines to Gitlab CI.
+Migrated all the load balancer service to Ingress using appropriate Certificate.
+Containerized all the microservices and deployed it to AWS EKS.
+Implemented container security tool Qualys for discovery and remediation of vulnerabilities.
+Used Snyk for application-level vulnerability detection.
+Implemented Reviewdog to post the scanning results compiled by the Snyk.
+Responded to developer queries any time in case of any issues.
+Created extensive documentation to list all the vulnerabilities and associated remediation of the application and presented to the developer to carry out mitigation.
+
+Worked with the clients and made sure that the Kubernetes deployment are always available.
+Responsible for the definition, design, construction, integration, testing, and support of reliable and reusable software solutions.
+support of reliable and reusable software solutions.
+Creating the helm charts for the Microservice application with the required properties
+Used Ansible playbooks provided by clients to create a Dockerfile and used helm chart to deploy it on the GKE cluster.
+Implemented CitusData operator using Operator-SDK where it's basic features like sharding, backup and restore, high availability were implemented.
+Worked in parallel with QA engineer to ensure that the CitusData operator is showing the functionality as expected.
+Connected with the clients daily to ensure we are on the right path and asked queries.
+
+Kubernetes
+Gitlab
+Gitlab CI
+Git
+GitHUB
+AWS
+Jenkins
+Snyk 
+Reviewdog
